@@ -305,3 +305,4 @@ Built with modern web technologies and best practices for premium photography po
 **Ready to showcase your work?** Update `config/site.ts` and deploy to Vercel in minutes!
 # photography1
 # photography1
+# photography2
